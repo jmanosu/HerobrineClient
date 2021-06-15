@@ -1,0 +1,14 @@
+{
+  "name": "minecraftfun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jmanosu",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.7.0"
+  }
+}
